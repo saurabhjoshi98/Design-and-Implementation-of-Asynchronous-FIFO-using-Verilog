@@ -1,1 +1,1 @@
-# Design-and-Implementation-of-Asynchronous-FIFO-using-Verilog
+# Design and Implementation of Asynchronous FIFO using Verilog
